@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+joblib
+streamlit
+langchain
+transformers
+pypdf
+sentence-transformers
+faiss-cpu
+matplotlib
